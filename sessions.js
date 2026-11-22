@@ -48,20 +48,20 @@ window.SESSIONS = [
   "What would you want the Church to say about your own work, and what would you resent her saying?"
  ],
  caseNote:"A diocese issues a statement supporting a specific housing policy. A parishioner says the Church has no right to politics. Another says the statement is binding on Catholics. Both are wrong, and the reason is in this session.",
- notThis:"It is not a claim that the Church is infallible in economics. She has been wrong about particulars, and says so."
+ notThis:"It is not a claim that every statement by a bishop is doctrine. The Church distinguishes the principles she teaches from the prudential judgements individuals make with them."
 },
 {
- id:4, part:"One", title:"The four principles",
- purpose:"The working tools. Nearly every argument in this teaching uses one of them.",
- remember:"Common good, subsidiarity, solidarity, participation — four principles, always held together.",
+ id:4, part:"One", title:"The principles",
+ purpose:"The working tools. Almost every argument in this teaching uses one of them.",
+ remember:"Common good, the universal destination of goods, subsidiarity, participation and solidarity — held together, never one alone.",
  body:[
-  "The common good is the sum of those conditions of social life which allow people, as groups and as individuals, to reach their fulfilment. It is not the sum of private goods, and it is not what the majority wants. It includes the good of the person who voted against it.",
+  "The Church's own definition of the common good is the sum of those conditions of social life by which people can reach their fulfilment more fully and more easily. It is not the sum of private goods, and it is not what the majority wants. It includes the good of the person who voted against it.",
   "Subsidiarity says a larger body must not take over what a smaller body can do, and must help it when it cannot. It is a principle of dignity, protecting the capacity of persons and families to act. It is not a licence for neglect: the duty to support, and where necessary to intervene, belongs to the higher body too.",
-  "Solidarity says we are responsible for one another. Not as charity from a distance, but as members of one body. The Church's teaching names the option for the poor here: a preferential love for those with least power, which is not a bias against the rich but a test of whether the system works.",
+  "Solidarity says we are responsible for one another. Not as charity from a distance, but as members of one body. And the Church adds a fifth, which is not a variation on the others: the universal destination of goods. The earth is given to all, so ownership carries an obligation to the common good. The option for the poor belongs here — a preferential love for those with least power, which is not a bias against the rich but a test of whether the system works.",
   "Participation is the fourth and the most neglected. A person who has no say in the decisions that shape his life is being treated as an object. Democracy, unions, works councils, parish councils, family decisions — all of it is judged by this."
  ],
  questions:[
-  "Which of the four do you find hardest to accept, and why?",
+  "Which of these principles do you find hardest to accept, and why?",
   "Where in your own life is a decision being made about you that you have no part in?"
  ],
  caseNote:"A village shop closes. A supermarket offers to fund a replacement with volunteers, on condition it sets the prices and hours. Apply all four principles, not just one.",
@@ -107,7 +107,7 @@ window.SESSIONS = [
  remember:"Private property is legitimate, and it carries a social mortgage: goods are for everyone.",
  body:[
   "Catholic teaching defends private property, firmly, against collectivism. It also says, in the same breath, that the right to property is not absolute: the universal destination of goods means the earth was given to all, and ownership is a stewardship.",
-  "That is what John Paul II called the 'social mortgage' on property. What you own is yours, and it is also owed in some measure to those who have nothing. The two claims are held together, not resolved by choosing one.",
+  "John Paul II called this a 'social mortgage' on property. What you own is yours, and it is also owed in some measure to those who have nothing. The two claims are held together, not resolved by choosing one.",
   "The market gets a fair hearing. It can allocate efficiently, reward initiative, and create wealth that lifts people out of poverty. It is also, on the Church's account, incapable of ordering itself: it cannot protect the weak, cannot price dignity, and left alone will concentrate power.",
   "So business is described as a community of persons, not a machine for return. Profit matters — a business that makes no profit cannot pay a just wage — but profit cannot be the only measure, or the business will sooner or later treat people as costs."
  ],
@@ -125,7 +125,7 @@ window.SESSIONS = [
  body:[
   "Government is not a necessary evil in this teaching. It is a positive good, because the common good cannot be achieved by individuals alone. Authority comes from God in the sense that it belongs to the ordering of human life, and it is judged by whether it serves persons.",
   "Democracy is preferred, but not worshipped. The Church warns that a majority can be wrong, that a vote does not make something just, and that a democracy without a shared moral foundation will eventually vote itself out of its own principles. She also insists that a democratic state must protect the family, the conscience, and the right of religious bodies to be themselves.",
-  "Obedience is owed to legitimate authority acting within its competence. It is not owed to a command to do evil. This is not a modern innovation: it is the ground on which the first Christians were martyred, and on which Catholics have resisted totalitarian states in every century since.",
+  "Obedience is owed to legitimate authority acting within its competence. It is not owed to a command to do evil. That is not a modern innovation: it is the ground on which the first Christians were martyred, and on which Catholics have resisted totalitarian states since. Where a law is unjust but does not command evil, the Church asks for prudence, and sometimes for patient obedience while working to change it.",
   "Religious freedom is not a concession but a right: no one may be forced to believe, and no one may be punished for believing. A state that manages religion, even generously, is already treating persons as things to be arranged."
  ],
  questions:[
@@ -191,7 +191,7 @@ window.SESSIONS = [
  purpose:"The chapter that turns the page into a life — and the one most easily skipped.",
  remember:"The Church's social doctrine is not a document to admire. It is a call to act, starting where you already are.",
  body:[
-  "The last chapter of the Compendium is about the lay faithful, and it makes an uncomfortable point: this teaching is not addressed to bishops alone, or to governments. It is addressed to the person who is in the factory, the practice, the school gate and the council meeting.",
+  "The last chapter of the Compendium is about the lay faithful, and it makes an uncomfortable point. This teaching is not addressed to bishops alone, or to governments. It is addressed to the person in the factory, the practice, the school gate and the council meeting.",
   "That means the test of whether you have understood it is not whether you can explain solidarity. It is whether anything has changed in how you spend money, treat employees, vote, hire, rent, or listen to the person who disagrees with you.",
   "It also means holding the teaching honestly. Some of it is doctrine: the dignity of the person, the just wage, the right to life. Some of it is prudential judgement: which policy, which party, which reform. Confusing the two is how this tradition gets turned into a weapon for one side or the other.",
   "And a last word against despair. The Church has been doing this for a hundred and thirty years in the modern documents, and two thousand in principle, in societies far worse than ours. The point was never to fix it all. It was to be the sort of person who does the next right thing in the place where he actually stands."
