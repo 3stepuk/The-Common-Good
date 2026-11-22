@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Common Good — a path through Catholic social doctrine</title>
+<meta name="description" content="Twelve sessions through Catholic social doctrine: the human person, the four principles, family, work, economics, politics, peace and creation. Read, judge, act.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#14120F; --ink:#E9E1D2; --muted:#A2988A; --line:#332C24;
+    --gold:#C9A227; --deep:#F2E9D8; --wash:#1E1A15;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,system-ui,sans-serif;line-height:1.65}
+  h1,h2,h3,.serif{font-family:"Cormorant Garamond",Georgia,serif;letter-spacing:.01em}
+  header{border-bottom:1px solid var(--line);padding:14px 20px;display:flex;align-items:center;justify-content:space-between;gap:14px;background:rgba(20,18,15,.92);position:sticky;top:0;z-index:20;backdrop-filter:blur(6px)}
+  .brand{font-family:"Cormorant Garamond",serif;font-size:19px;letter-spacing:.06em;color:var(--deep)}
+  .brand span{color:var(--gold)}
+  .progress{flex:1;max-width:260px;height:5px;background:var(--wash);border-radius:3px;overflow:hidden}
+  .progress i{display:block;height:100%;width:0;background:var(--gold);transition:width .4s}
+  .btn{font-size:12px;letter-spacing:.12em;text-transform:uppercase;border:1px solid var(--line);background:#1B1713;padding:8px 12px;border-radius:6px;cursor:pointer;color:var(--muted)}
+  .btn:hover{border-color:var(--gold);color:var(--ink)}
+  .layout{display:grid;grid-template-columns:290px 1fr;min-height:calc(100vh - 61px)}
+  aside{border-right:1px solid var(--line);padding:18px 14px;background:#171410}
+  aside h2{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin:6px 8px 12px;font-family:Inter,sans-serif}
+  .part{margin:18px 8px 6px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold)}
+  .item{display:flex;gap:10px;align-items:baseline;width:100%;text-align:left;background:none;border:none;padding:9px 8px;border-radius:6px;cursor:pointer;font-size:14px;color:var(--ink);line-height:1.35}
+  .item:hover{background:var(--wash)}
+  .item.on{background:var(--wash);box-shadow:inset 3px 0 0 var(--gold)}
+  .item .n{font-variant-numeric:tabular-nums;color:var(--gold);font-size:12px;min-width:18px}
+  .item.done .n::after{content:" ✓";color:var(--deep)}
+  main{padding:38px 40px 90px;max-width:760px}
+  .kicker{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin:0 0 10px}
+  h1{font-size:clamp(28px,4vw,40px);line-height:1.15;margin:0 0 10px;color:var(--deep)}
+  .purpose{font-size:17px;color:var(--muted);font-style:italic;margin:0 0 24px}
+  .remember{background:#1F2A22;color:#EFE7D6;border:1px solid #34443A;border-radius:10px;padding:18px 20px;margin:0 0 26px}
+  .remember small{display:block;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#A8BD9E;margin-bottom:6px}
+  .remember p{margin:0;font-family:"Cormorant Garamond",serif;font-size:21px;line-height:1.4}
+  p{font-size:16.5px;margin:0 0 16px}
+  .block{border-top:1px solid var(--line);margin-top:28px;padding-top:18px}
+  .block h3{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin:0 0 10px;font-family:Inter,sans-serif}
+  ol{padding-left:20px} li{margin-bottom:10px}
+  .notthis{background:var(--wash);border-left:3px solid var(--gold);padding:12px 16px;font-size:15px;color:#D8CFC0}
+  .nav{display:flex;justify-content:space-between;gap:12px;margin-top:34px}
+  footer{border-top:1px solid var(--line);padding:20px;text-align:center;font-size:12px;color:var(--muted)}
+  h1,.brand{color:#F4ECDC}
+  a{color:var(--gold)}
+  @media (max-width:860px){.layout{grid-template-columns:1fr}aside{border-right:none;border-bottom:1px solid var(--line)}main{padding:26px 20px 70px}}
+  @media print{header,aside,.nav,footer{display:none}main{max-width:none;padding:0}body{background:#fff;color:#000}.remember{background:#fff;color:#000;border:1px solid #000}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">The Common Good <span>·</span> twelve sessions</div>
+  <div class="progress"><i id="bar"></i></div>
+  <button class="btn" id="reset">Start again</button>
+</header>
+<div class="layout">
+  <aside>
+    <h2>The path</h2>
+    <div id="toc"></div>
+  </aside>
+  <main id="main"></main>
+</div>
+<footer>
+  Sources: the <em>Compendium of the Social Doctrine of the Church</em> (2004) and the encyclicals from <em>Rerum Novarum</em> (1891) to <em>Fratelli Tutti</em> (2020), freely available at vatican.va.
+  Citations here are to chapters and named documents; the paragraph numbers are in the Vatican text.
+</footer>
+<script src="sessions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
