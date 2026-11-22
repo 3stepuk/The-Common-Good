@@ -22,7 +22,7 @@ window.SESSIONS = [
  remember:"The human person is made in the image of God; dignity is received, not earned.",
  body:[
   "Everything in this doctrine starts here. The person is not a unit of production, a consumer, a voter or a problem to be managed. The person is created in the image of God, redeemed by Christ, and called to communion.",
-  "That dignity is not conditional. It does not depend on capacity, usefulness, health, wealth, age, or consent. This is why the teaching is uncompromising about the unborn, the disabled, the dying and the poor — and why it is equally uncompromising about the dignity of the person who has done wrong.",
+  "That dignity is not conditional. It does not depend on capacity, usefulness, health, wealth, age, or consent. This is why the teaching is uncompromising about the unborn, the disabled, the dying and the poor. And why it is equally uncompromising about the dignity of the person who has done wrong.",
   "Freedom belongs to that dignity, and so does responsibility. The Church defends freedom of conscience and rejects every form of coercion in religion. She also insists that freedom is not the licence to do as one likes; it is the capacity to choose the good, and it can be wounded by sin.",
   "Rights and duties come in pairs here. A right to food implies a duty in someone to feed. A right to work implies duties in employers, in the state and in the worker. The modern habit of claiming rights while forgetting duties is one of the things this teaching was written against."
  ],
@@ -40,7 +40,7 @@ window.SESSIONS = [
  body:[
   "A fair objection: why does a Church with no economics department issue documents on the economy? The answer is in the Church's own account of her mission. She is sent to preach the Gospel to the whole person, body and soul, and the Gospel has consequences for how people live together.",
   "So she claims competence in principles and in judgement about what human dignity requires. She explicitly disclaims competence in technical matters: which tax, which tariff, which regulation, which model.",
-  "That distinction is the key to reading any of these documents without misusing them. When the Church says 'the just wage is a duty', that is doctrine. When a bishop says 'this particular policy is unjust', that is a prudential judgement, and a Catholic may disagree with it without being a heretic.",
+  "That distinction is the key to reading any of these documents without misusing them. That a wage must not fall below what supports a family is doctrine. The figure, and the means of reaching it, are matters of judgement. A bishop may also judge a particular policy unjust, and a Catholic may disagree with that judgement without being a heretic.",
   "This is also why the Church speaks when others are silent: because the person who cannot speak for himself is not a technical problem."
  ],
  questions:[
@@ -55,9 +55,9 @@ window.SESSIONS = [
  purpose:"The working tools. Almost every argument in this teaching uses one of them.",
  remember:"Common good, the universal destination of goods, subsidiarity, participation and solidarity — held together, never one alone.",
  body:[
-  "The Church's own definition of the common good is the sum of those conditions of social life by which people can reach their fulfilment more fully and more easily. It is not the sum of private goods, and it is not what the majority wants. It includes the good of the person who voted against it.",
+  "The Church's own definition of the common good is the sum of those conditions of social life by which people can reach their fulfilment more fully and more easily. It is not the sum of private goods. And because it includes the good of every person, it cannot simply be defined as whatever the majority wants at a given moment.",
   "Subsidiarity says a larger body must not take over what a smaller body can do, and must help it when it cannot. It is a principle of dignity, protecting the capacity of persons and families to act. It is not a licence for neglect: the duty to support, and where necessary to intervene, belongs to the higher body too.",
-  "Solidarity says we are responsible for one another. Not as charity from a distance, but as members of one body. And the Church adds a fifth, which is not a variation on the others: the universal destination of goods. The earth is given to all, so ownership carries an obligation to the common good. The option for the poor belongs here — a preferential love for those with least power, which is not a bias against the rich but a test of whether the system works.",
+  "Solidarity says we are responsible for one another. Not as charity from a distance, but as members of one body. And the Church adds a fifth, which is not a variation on the others: the universal destination of goods. The earth is given to all, so ownership carries an obligation to the common good. The option for the poor belongs here. It is a preferential love for those with least power. It is not a bias against the rich. It is the point at which you can tell whether an arrangement is working for the people it is meant to serve.",
   "Participation is the fourth and the most neglected. A person who has no say in the decisions that shape his life is being treated as an object. Democracy, unions, works councils, parish councils, family decisions — all of it is judged by this."
  ],
  questions:[
@@ -74,8 +74,8 @@ window.SESSIONS = [
  body:[
   "The family comes before the state, both in time and in logic. Long before there was a parliament there were parents and children. This sequencing is not sentiment; it is the reason the state cannot define the family out of existence or replace its functions.",
   "The family is described as a subject of rights: it has rights that belong to it as a body, not merely to its individual members. That is a strong claim, and it is why the teaching resists both the state that absorbs the family and the market that dissolves it.",
-  "Marriage is treated as a covenant between a man and a woman, open to children — not merely a contract between two individuals, still less a private lifestyle choice that the law merely recognises. This is contested today, and the Church knows it.",
-  "Then the practical part, which is where most parish arguments start. The family has a right to adequate housing, to a living wage, to time, to religious education, and to support rather than substitution. Childcare that replaces parents rather than helping them fails that test."
+  "Marriage is treated as a covenant between a man and a woman, open to children. It is not merely a contract between two individuals, still less a private lifestyle choice the law happens to recognise. This is contested today, and the Church knows it.",
+  "Then the practical part, which is where most parish arguments start. The family has a right to adequate housing, to a living wage, to time, to religious education, and to support rather than substitution. Childcare that replaces parents rather than helping them would fail that test. That is an application of subsidiarity, not a separate doctrine."
  ],
  questions:[
   "Which of the family's rights is currently least supported in your own circumstances?",
@@ -90,7 +90,7 @@ window.SESSIONS = [
  remember:"Work is for the person; the person is not for work. The just wage is a duty, not a favour.",
  body:[
   "Rerum Novarum, in 1891, was written into a world of factory labour, child work and no protection at all. Its central move was not economic but theological: the worker is not a commodity, and labour is not a thing to be bought at the lowest price.",
-  "From that follows the just wage. A wage is unjust if it cannot support the worker and his family in reasonable decency, even if the worker agreed to it and even if the market would bear less. The older name for it is the family wage, and it is doctrine, not advice.",
+  "From that follows the just wage. A wage is unjust if it cannot support the worker and his family in reasonable decency, even if the worker agreed to it and even if the market would bear less. There is a second side to it: it would also be unjust to demand wages that would destroy the business, because that takes work from everyone. The family wage is one way of meeting it, alongside allowances and other measures. The floor is doctrine. The figure is not.",
   "Work itself is treated as a vocation, not a curse: a way of participating in creation, of cooperating with others, and of becoming a person. Unemployment is therefore not merely an income problem; it is a wound to dignity.",
   "There are duties on the other side too: work well done, honesty, care for the employer's property, refusal to damage what one is paid to protect. The teaching is not a one-sided list of demands on employers."
  ],
@@ -108,15 +108,15 @@ window.SESSIONS = [
  body:[
   "Catholic teaching defends private property, firmly, against collectivism. It also says, in the same breath, that the right to property is not absolute: the universal destination of goods means the earth was given to all, and ownership is a stewardship.",
   "John Paul II called this a 'social mortgage' on property. What you own is yours, and it is also owed in some measure to those who have nothing. The two claims are held together, not resolved by choosing one.",
-  "The market gets a fair hearing. It can allocate efficiently, reward initiative, and create wealth that lifts people out of poverty. It is also, on the Church's account, incapable of ordering itself: it cannot protect the weak, cannot price dignity, and left alone will concentrate power.",
-  "So business is described as a community of persons, not a machine for return. Profit matters — a business that makes no profit cannot pay a just wage — but profit cannot be the only measure, or the business will sooner or later treat people as costs."
+  "The market gets a fair hearing. It can allocate efficiently, reward initiative, and create wealth that lifts people out of poverty. It is also, on the Church's account, incapable of ordering itself. It cannot direct economic life to the common good on its own, and it cannot protect what cannot be priced.",
+  "So business is described as a community of persons, not a machine for return. Profit matters. A business that makes no profit cannot pay a just wage. But profit cannot be the only measure, or the business will sooner or later treat people as costs."
  ],
  questions:[
   "What do you actually own that you treat as absolutely yours?",
   "Which is harder for you to believe: that markets lift people, or that they abandon them?"
  ],
  caseNote:"You inherit a house and rent it out. The rent covers the mortgage. A tenant's income drops and he asks to stay at a lower rent for six months. What does the 'social mortgage' actually ask of you?",
- notThis:"It is not socialism with a crucifix. The Church has condemned collectivism as firmly as she has condemned unregulated markets, and in the same documents."
+ notThis:"It is not socialism with a crucifix. Collectivism was condemned, and so was the notion that free competition can order economic life by itself. The documents do not weigh the two errors against each other, and neither should we."
 },
 {
  id:8, part:"Two", title:"The political community",
@@ -124,8 +124,8 @@ window.SESSIONS = [
  remember:"Authority exists to serve the common good; a law that commands evil has no claim on the conscience.",
  body:[
   "Government is not a necessary evil in this teaching. It is a positive good, because the common good cannot be achieved by individuals alone. Authority comes from God in the sense that it belongs to the ordering of human life, and it is judged by whether it serves persons.",
-  "Democracy is preferred, but not worshipped. The Church warns that a majority can be wrong, that a vote does not make something just, and that a democracy without a shared moral foundation will eventually vote itself out of its own principles. She also insists that a democratic state must protect the family, the conscience, and the right of religious bodies to be themselves.",
-  "Obedience is owed to legitimate authority acting within its competence. It is not owed to a command to do evil. That is not a modern innovation: it is the ground on which the first Christians were martyred, and on which Catholics have resisted totalitarian states since. Where a law is unjust but does not command evil, the Church asks for prudence, and sometimes for patient obedience while working to change it.",
+  "Democracy receives a qualified endorsement, not worship. The Church warns that a majority can be wrong, and that a vote does not make something just. She also insists that a democratic state must protect the family, the conscience, and the right of religious bodies to be themselves.",
+  "Obedience is owed to legitimate authority acting within its competence. It is not owed to a directive that contradicts the moral order, the fundamental rights of the person or the Gospel. Where a law is unjust but does not command evil, there is no simple rule. The classical tradition, following Aquinas, weighs scandal, the common good and the gravity of the matter, and the Catechism sets strict conditions for armed resistance.",
   "Religious freedom is not a concession but a right: no one may be forced to believe, and no one may be punished for believing. A state that manages religion, even generously, is already treating persons as things to be arranged."
  ],
  questions:[
@@ -140,10 +140,10 @@ window.SESSIONS = [
  purpose:"Because the same principles do not stop at a border.",
  remember:"Solidarity is not a national virtue. The human family is one family, and development is the new name for peace.",
  body:[
-  "The teaching on international life begins with a blunt claim: the goods of the earth are for all peoples, and the inequality between nations is not merely unfortunate but a scandal and a threat to peace. Populorum Progressio said it in 1967 in words that have not aged: development is the new name for peace.",
+  "The teaching on international life begins with a blunt claim. The goods of the earth are for all peoples. The inequality between nations is not merely unfortunate. It is a scandal, and a threat to peace. Populorum Progressio said it in 1967 in words that have not aged: development is the new name for peace.",
   "Wealthier nations are said to owe more than charity. Trade rules, debt, patents, arms sales and agricultural subsidies are all treated as moral questions, not technical ones. A tariff can be a decision about whether a farmer's children eat.",
   "Migration gets a careful treatment. A person has the right to migrate to support himself and his family. A nation has the right to regulate its borders for the common good — but not absolutely, and never in a way that treats the migrant as a problem rather than a person. The Church's test is the same one she applies everywhere: what does this do to the weakest person in the room?",
-  "And war is not glorified. Peace is the work of justice, not the absence of conflict, and a war of aggression is always a crime."
+  "And war is not glorified. Peace is the work of justice, not merely the absence of fighting. A war of aggression is intrinsically immoral."
  ],
  questions:[
   "What do you owe to a stranger in another country, and on what basis?",
@@ -157,7 +157,7 @@ window.SESSIONS = [
  purpose:"Often treated as a recent add-on. It is old, and it is about the poor first.",
  remember:"The earth is a gift entrusted, not a resource possessed; the climate question is a question about the poor.",
  body:[
-  "Care for creation runs through the tradition, from the Psalms to the Fathers to Francis of Assisi. It became central in Catholic teaching with Laudato Si' in 2015. That document insisted it is not a hobby for the comfortable.",
+  "Care for creation runs through the tradition, from the Psalms to the Fathers to Francis of Assisi. It was already in the Church's social teaching before 2015. Laudato Si' brought it to the front and insisted it is not a hobby for the comfortable.",
   "Creation is a gift with a purpose. The human person is a steward, not an owner. And an economy which treats the natural world as infinite inventory will treat people the same way. The two abuses are one habit of mind.",
   "Laudato Si' makes the link explicit: the poor suffer first from environmental damage — drought, flood, bad air, poisoned water — while contributing least to it. So the environment is not a rival to the option for the poor; it is one of its clearest cases.",
   "This is not nature worship. The Church insists on the distinct dignity of the human person and rejects the idea that human beings are simply one species among others with no special responsibility. Stewardship is a heavier calling than either domination or flattening."
@@ -174,10 +174,10 @@ window.SESSIONS = [
  purpose:"The hardest chapter, because it refuses both sentimental pacifism and easy war.",
  remember:"Peace is the work of justice; force may only be used to defend, never to dominate.",
  body:[
-  "Peace, in this teaching, is not the absence of fighting. It is tranquillity in right order — which means there can be peace without justice, and it is not peace. That single definition changes every argument that follows.",
-  "Force is not absolutely forbidden. The tradition allows defence of the innocent, under strict conditions. A lasting and grave harm must be imminent. Every other means must have failed. The response must be proportionate, and it must not produce evils worse than the evil it removes. Those conditions are severe, and in the modern world they are very hard to meet.",
-  "In practice the Church has grown much more restrictive. John Paul II questioned whether modern war could ever meet the conditions, and in Fratelli Tutti Francis says it is now very difficult to invoke the traditional criteria at all. The Catechism still speaks of the duty to protect the innocent, while insisting that arms must never become an end in themselves.",
-  "The non-violent strand belongs here too: the Church holds up those who renounce force and defend the weak by other means, and treats their witness as a real vocation, not a loophole."
+  "Peace, in this teaching, is not the absence of fighting. It is the tranquillity of order, in Augustine's phrase, and the Church takes it up. Order in this sense means justice. So a country can be quiet and unjust at the same time, and that is not peace. The definition changes every argument that follows.",
+  "Force is not absolutely forbidden. The tradition allows the defence of the innocent, under strict conditions. The damage inflicted by the aggressor must be lasting, grave and certain. Every other means of stopping it must have been shown to be impractical or ineffective. There must be serious prospects of success. And the use of arms must not produce evils graver than the evil to be eliminated. Those conditions are severe. The judgement about whether they are met belongs to those responsible for the common good, not to the individual, and that is a prudential judgement.",
+  "In practice the Church has grown much more restrictive. In Fratelli Tutti, Francis writes that it is very difficult nowadays to invoke the rational criteria elaborated in earlier centuries. Commentators divide over how far that closes the door. The Catechism still sets out the conditions, while insisting that arms must never become an end in themselves.",
+  "The non-violent strand belongs here too. The Church holds up those who renounce force and defend the weak by other means. Their witness is a real vocation, not a loophole."
  ],
  questions:[
   "Which is harder for you: condemning a war you support, or admitting a war you oppose might be justified?",
@@ -191,7 +191,7 @@ window.SESSIONS = [
  purpose:"The chapter that turns the page into a life — and the one most easily skipped.",
  remember:"The Church's social doctrine is not a document to admire. It is a call to act, starting where you already are.",
  body:[
-  "The last chapter of the Compendium is about the lay faithful, and it makes an uncomfortable point. This teaching is not addressed to bishops alone, or to governments. It is addressed to the person in the factory, the practice, the school gate and the council meeting.",
+  "The last chapter of the Compendium is called Social Doctrine and Ecclesial Action. Its second half is addressed to the lay faithful, and it makes an uncomfortable point. This teaching is not for bishops alone, or for governments. It is for the person in the factory, the practice, the school gate and the council meeting.",
   "That means the test of whether you have understood it is not whether you can explain solidarity. It is whether anything has changed in how you spend money, treat employees, vote, hire, rent, or listen to the person who disagrees with you.",
   "It also means holding the teaching honestly. Some of it is doctrine: the dignity of the person, the just wage, the right to life. Some of it is prudential judgement: which policy, which party, which reform. Confusing the two is how this tradition gets turned into a weapon for one side or the other.",
   "And a last word against despair. The Church has been doing this for a hundred and thirty years in the modern documents, and two thousand in principle, in societies far worse than ours. The point was never to fix it all. It was to be the sort of person who does the next right thing in the place where he actually stands."
@@ -204,3 +204,18 @@ window.SESSIONS = [
  notThis:"It is not a call to become political. It is a call to become responsible where you already are."
 }
 ];
+
+window.REFS = {
+ 1:["Sollicitudo Rei Socialis 41 (social doctrine belongs to theology, and is not a 'third way')","Compendium, ch. 1"],
+ 2:["Compendium, ch. 3 (the human person)","Gaudium et Spes 26"],
+ 3:["Rerum Novarum 45 · Quadragesimo Anno 71","Centesimus Annus 43 (the Church offers no technical models)"],
+ 4:["Centesimus Annus 48 (the higher community supports the lower in case of need)","Quadragesimo Anno 79 · Mater et Magistra 53","Compendium 160–164 (the principles) · 182 (option for the poor)"],
+ 5:["Rerum Novarum 13 · Apostolicam Actuositatem 11","Compendium 211–214"],
+ 6:["Rerum Novarum 45 (the wage floor and the worker's need)","Quadragesimo Anno 71–74 (including the condition of the business)","Laborem Exercens 19 (the family wage as one means)"],
+ 7:["Sollicitudo Rei Socialis 42 ('social mortgage') · Laudato Si' 93","Quadragesimo Anno 88, 101, 120","Centesimus Annus 42 (a qualified yes to the market economy) · Fratelli Tutti 168"],
+ 8:["Catechism 2242–2243 (obedience and its limits)","Aquinas, Summa I-II q.96 a.4 (unjust law)","Centesimus Annus 46 (qualified endorsement of democracy)"],
+ 9:["Populorum Progressio 76 ('development is the new name for peace')","Compendium 500 (aggression is intrinsically immoral)","Catechism 2241 (migration)"],
+ 10:["Laudato Si' 25, 48–49 (the cry of the earth and the cry of the poor)","Compendium, ch. 10"],
+ 11:["Catechism 2309 (the four conditions, and who judges them)","Fratelli Tutti 258","Compendium 494–497"],
+ 12:["Compendium, ch. 12, parts I–II, and the Conclusion","Compendium 551 (credibility comes from witness)"]
+};

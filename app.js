@@ -30,6 +30,7 @@ function render(){
     <div class="block"><h3>Questions to sit with</h3><ol>${s.questions.map(q=>`<li>${q}</li>`).join('')}</ol></div>
     <div class="block"><h3>A case</h3><p>${s.caseNote}</p></div>
     <div class="block"><h3>What this is not</h3><div class="notthis">${s.notThis}</div></div>
+    ${(window.REFS&&window.REFS[s.id])?`<div class="block"><h3>References</h3><ul class="refs">${window.REFS[s.id].map(r=>`<li>${r}</li>`).join('')}</ul></div>`:''}
     <div class="nav">
       <button class="btn" id="prev" ${cur===0?'disabled':''}>← Previous</button>
       <button class="btn" id="next">${done.has(s.id)?'Next →':'Mark read · next →'}</button>
