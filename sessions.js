@@ -108,7 +108,7 @@ window.SESSIONS = [
  body:[
   "Catholic teaching defends private property, firmly, against collectivism. It also says, in the same breath, that the right to property is not absolute: the universal destination of goods means the earth was given to all, and ownership is a stewardship.",
   "John Paul II called this a 'social mortgage' on property. What you own is yours, and it is also owed in some measure to those who have nothing. The two claims are held together, not resolved by choosing one.",
-  "The market gets a fair hearing. It can allocate efficiently, reward initiative, and create wealth that lifts people out of poverty. It is also, on the Church's account, incapable of ordering itself. It cannot direct economic life to the common good on its own, and it cannot protect what cannot be priced.",
+  "The market gets a fair hearing. It can allocate efficiently, reward initiative, and create wealth that lifts people out of poverty. It is also, on the Church's account, incapable of ordering itself. It cannot direct economic life to the common good on its own, and it cannot protect what cannot be priced. The documents differ in tone here: Centesimus Annus gives a conditional yes to a market economy bound by law, while Fratelli Tutti speaks of the marketplace's limits as a 'dogma of neoliberal faith'. Both are magisterial. Neither cancels the other.",
   "So business is described as a community of persons, not a machine for return. Profit matters. A business that makes no profit cannot pay a just wage. But profit cannot be the only measure, or the business will sooner or later treat people as costs."
  ],
  questions:[
@@ -176,7 +176,7 @@ window.SESSIONS = [
  body:[
   "Peace, in this teaching, is not the absence of fighting. It is the tranquillity of order, in Augustine's phrase, and the Church takes it up. Order in this sense means justice. So a country can be quiet and unjust at the same time, and that is not peace. The definition changes every argument that follows.",
   "Force is not absolutely forbidden. The tradition allows the defence of the innocent, under strict conditions. The damage inflicted by the aggressor must be lasting, grave and certain. Every other means of stopping it must have been shown to be impractical or ineffective. There must be serious prospects of success. And the use of arms must not produce evils graver than the evil to be eliminated. Those conditions are severe. The judgement about whether they are met belongs to those responsible for the common good, not to the individual, and that is a prudential judgement.",
-  "In practice the Church has grown much more restrictive. In Fratelli Tutti, Francis writes that it is very difficult nowadays to invoke the rational criteria elaborated in earlier centuries. Commentators divide over how far that closes the door. The Catechism still sets out the conditions, while insisting that arms must never become an end in themselves.",
+  "In practice the Church has grown much more restrictive. Francis writes in Fratelli Tutti: "it is very difficult nowadays to invoke the rational criteria elaborated in earlier centuries to speak of the possibility of a 'just war'." He goes further a sentence later: "We can no longer think of war as a solution, because its risks will probably always be greater than its supposed benefits." Commentators divide over whether that closes the door or moves the framework to the background. The Catechism still sets out the conditions, and still insists that arms must never become an end in themselves.",
   "The non-violent strand belongs here too. The Church holds up those who renounce force and defend the weak by other means. Their witness is a real vocation, not a loophole."
  ],
  questions:[
@@ -206,16 +206,16 @@ window.SESSIONS = [
 ];
 
 window.REFS = {
- 1:["Sollicitudo Rei Socialis 41 (social doctrine belongs to theology, and is not a 'third way')","Compendium, ch. 1"],
- 2:["Compendium, ch. 3 (the human person)","Gaudium et Spes 26"],
- 3:["Rerum Novarum 45 · Quadragesimo Anno 71","Centesimus Annus 43 (the Church offers no technical models)"],
- 4:["Centesimus Annus 48 (the higher community supports the lower in case of need)","Quadragesimo Anno 79 · Mater et Magistra 53","Compendium 160–164 (the principles) · 182 (option for the poor)"],
- 5:["Rerum Novarum 13 · Apostolicam Actuositatem 11","Compendium 211–214"],
- 6:["Rerum Novarum 45 (the wage floor and the worker's need)","Quadragesimo Anno 71–74 (including the condition of the business)","Laborem Exercens 19 (the family wage as one means)"],
- 7:["Sollicitudo Rei Socialis 42 ('social mortgage') · Laudato Si' 93","Quadragesimo Anno 88, 101, 120","Centesimus Annus 42 (a qualified yes to the market economy) · Fratelli Tutti 168"],
- 8:["Catechism 2242–2243 (obedience and its limits)","Aquinas, Summa I-II q.96 a.4 (unjust law)","Centesimus Annus 46 (qualified endorsement of democracy)"],
- 9:["Populorum Progressio 76 ('development is the new name for peace')","Compendium 500 (aggression is intrinsically immoral)","Catechism 2241 (migration)"],
- 10:["Laudato Si' 25, 48–49 (the cry of the earth and the cry of the poor)","Compendium, ch. 10"],
- 11:["Catechism 2309 (the four conditions, and who judges them)","Fratelli Tutti 258","Compendium 494–497"],
- 12:["Compendium, ch. 12, parts I–II, and the Conclusion","Compendium 551 (credibility comes from witness)"]
+ 1:["Sollicitudo Rei Socialis 41 (social doctrine belongs to theology, and is not a 'third way')","Compendium of the Social Doctrine of the Church, ch. 1"],
+ 2:["Compendium, ch. 3 (the human person)","Gaudium et Spes 26 (the human person in society)"],
+ 3:["Rerum Novarum 45 · Quadragesimo Anno 71 (the wage floor)","Centesimus Annus 43 (the Church offers no technical models)"],
+ 4:["Gaudium et Spes 26 (the common good, in the Council's own words)","Quadragesimo Anno 79 · Centesimus Annus 48 (subsidiarity)","Compendium, ch. 4 (the principles, and the option for the poor under the universal destination of goods)"],
+ 5:["Rerum Novarum 13 (the family before the state)","Compendium, ch. 5 (the family as the vital cell and a subject of rights)"],
+ 6:["Rerum Novarum 45 (the wage floor, and the worker's need)","Quadragesimo Anno 71–74 (including the condition of the business)","Laborem Exercens 19 (the family wage as one means)"],
+ 7:["Sollicitudo Rei Socialis 42 ('social mortgage') · Laudato Si' 93","Centesimus Annus 42 (a conditional yes to a market economy bound by law) · Fratelli Tutti 168 ('dogma of neoliberal faith')","Quadragesimo Anno 88, 101, 120"],
+ 8:["Catechism 2242–2243 (obedience and its limits)","Aquinas, Summa I-II q.96 a.4 (unjust law)","Centesimus Annus 46 (a qualified endorsement of democracy)"],
+ 9:["Populorum Progressio 76 ('Development, the New Name for Peace')","Compendium 500 (aggression is intrinsically immoral)","Catechism 2241 (migration)"],
+ 10:["Laudato Si' 25, 48–49 (the cry of the earth and the cry of the poor)","Compendium, ch. 10 (care for creation before 2015)"],
+ 11:["Catechism 2309 (the four conditions, quoted, and who judges them)","Fratelli Tutti 258 (the rational criteria, and 'never again war')","Compendium 494–497 (peace, and the atomic age)"],
+ 12:["Compendium, ch. 12, parts I–II, and the Conclusion","Compendium 551 (credibility comes more from witness than from argument)"]
 };
