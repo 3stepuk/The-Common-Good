@@ -56,7 +56,7 @@ window.SESSIONS = [
  remember:"Common good, subsidiarity, solidarity, participation — four principles, always held together.",
  body:[
   "The common good is the sum of those conditions of social life which allow people, as groups and as individuals, to reach their fulfilment. It is not the sum of private goods, and it is not what the majority wants. It includes the good of the person who voted against it.",
-  "Subsidiarity says that a larger body should not take over what a smaller body can do. It is a principle of dignity: it protects the capacity of persons and families to act. It is not a licence for neglect. Higher bodies have a duty to support, and where necessary to intervene, when the smaller body cannot cope.",
+  "Subsidiarity says a larger body must not take over what a smaller body can do, and must help it when it cannot. It is a principle of dignity, protecting the capacity of persons and families to act. It is not a licence for neglect: the duty to support, and where necessary to intervene, belongs to the higher body too.",
   "Solidarity says we are responsible for one another. Not as charity from a distance, but as members of one body. The Church's teaching names the option for the poor here: a preferential love for those with least power, which is not a bias against the rich but a test of whether the system works.",
   "Participation is the fourth and the most neglected. A person who has no say in the decisions that shape his life is being treated as an object. Democracy, unions, works councils, parish councils, family decisions — all of it is judged by this."
  ],
@@ -75,7 +75,7 @@ window.SESSIONS = [
   "The family comes before the state, both in time and in logic. Long before there was a parliament there were parents and children. This sequencing is not sentiment; it is the reason the state cannot define the family out of existence or replace its functions.",
   "The family is described as a subject of rights: it has rights that belong to it as a body, not merely to its individual members. That is a strong claim, and it is why the teaching resists both the state that absorbs the family and the market that dissolves it.",
   "Marriage is treated as a covenant between a man and a woman, open to children — not merely a contract between two individuals, still less a private lifestyle choice that the law merely recognises. This is contested today, and the Church knows it.",
-  "And then the practical part, which is where most parish arguments start: the family has a right to adequate housing, to a living wage, to time, to religious education, and to support rather than substitution. Childcare that replaces parents rather than helping them is judged by that standard."
+  "Then the practical part, which is where most parish arguments start. The family has a right to adequate housing, to a living wage, to time, to religious education, and to support rather than substitution. Childcare that replaces parents rather than helping them fails that test."
  ],
  questions:[
   "Which of the family's rights is currently least supported in your own circumstances?",
@@ -90,7 +90,7 @@ window.SESSIONS = [
  remember:"Work is for the person; the person is not for work. The just wage is a duty, not a favour.",
  body:[
   "Rerum Novarum, in 1891, was written into a world of factory labour, child work and no protection at all. Its central move was not economic but theological: the worker is not a commodity, and labour is not a thing to be bought at the lowest price.",
-  "From that follows the just wage. A wage is unjust if it cannot support the worker and his family in reasonable decency, even if the worker agreed to it and even if the market would bear less. That is a hard saying, and it is doctrine.",
+  "From that follows the just wage. A wage is unjust if it cannot support the worker and his family in reasonable decency, even if the worker agreed to it and even if the market would bear less. The older name for it is the family wage, and it is doctrine, not advice.",
   "Work itself is treated as a vocation, not a curse: a way of participating in creation, of cooperating with others, and of becoming a person. Unemployment is therefore not merely an income problem; it is a wound to dignity.",
   "There are duties on the other side too: work well done, honesty, care for the employer's property, refusal to damage what one is paid to protect. The teaching is not a one-sided list of demands on employers."
  ],
@@ -107,7 +107,7 @@ window.SESSIONS = [
  remember:"Private property is legitimate, and it carries a social mortgage: goods are for everyone.",
  body:[
   "Catholic teaching defends private property, firmly, against collectivism. It also says, in the same breath, that the right to property is not absolute: the universal destination of goods means the earth was given to all, and ownership is a stewardship.",
-  "That is the 'social mortgage' — a phrase the Church has used without embarrassment. What you own is yours, and it is also owed in some measure to those who have nothing. The two claims are held together, not resolved by choosing one.",
+  "That is what John Paul II called the 'social mortgage' on property. What you own is yours, and it is also owed in some measure to those who have nothing. The two claims are held together, not resolved by choosing one.",
   "The market gets a fair hearing. It can allocate efficiently, reward initiative, and create wealth that lifts people out of poverty. It is also, on the Church's account, incapable of ordering itself: it cannot protect the weak, cannot price dignity, and left alone will concentrate power.",
   "So business is described as a community of persons, not a machine for return. Profit matters — a business that makes no profit cannot pay a just wage — but profit cannot be the only measure, or the business will sooner or later treat people as costs."
  ],
@@ -116,7 +116,7 @@ window.SESSIONS = [
   "Which is harder for you to believe: that markets lift people, or that they abandon them?"
  ],
  caseNote:"You inherit a house and rent it out. The rent covers the mortgage. A tenant's income drops and he asks to stay at a lower rent for six months. What does the 'social mortgage' actually ask of you?",
- notThis:"It is not socialism with a crucifix. The Church has condemned collectivism as firmly as she has condemned unrestricted markets."
+ notThis:"It is not socialism with a crucifix. The Church has condemned collectivism as firmly as she has condemned unregulated markets, and in the same documents."
 },
 {
  id:8, part:"Two", title:"The political community",
@@ -157,8 +157,8 @@ window.SESSIONS = [
  purpose:"Often treated as a recent add-on. It is old, and it is about the poor first.",
  remember:"The earth is a gift entrusted, not a resource possessed; the climate question is a question about the poor.",
  body:[
-  "Care for creation runs through the tradition — from the Psalms to the Fathers to Francis of Assisi — but it became central in Catholic teaching with Laudato Si' in 2015, which insisted it is not a hobby for the comfortable.",
-  "The argument is that creation is a gift with a purpose, that the human person is a steward rather than an owner, and that an economy which treats the natural world as infinite inventory will treat people the same way. The two abuses are one habit of mind.",
+  "Care for creation runs through the tradition, from the Psalms to the Fathers to Francis of Assisi. It became central in Catholic teaching with Laudato Si' in 2015. That document insisted it is not a hobby for the comfortable.",
+  "Creation is a gift with a purpose. The human person is a steward, not an owner. And an economy which treats the natural world as infinite inventory will treat people the same way. The two abuses are one habit of mind.",
   "Laudato Si' makes the link explicit: the poor suffer first from environmental damage — drought, flood, bad air, poisoned water — while contributing least to it. So the environment is not a rival to the option for the poor; it is one of its clearest cases.",
   "This is not nature worship. The Church insists on the distinct dignity of the human person and rejects the idea that human beings are simply one species among others with no special responsibility. Stewardship is a heavier calling than either domination or flattening."
  ],
@@ -175,8 +175,8 @@ window.SESSIONS = [
  remember:"Peace is the work of justice; force may only be used to defend, never to dominate.",
  body:[
   "Peace, in this teaching, is not the absence of fighting. It is tranquillity in right order — which means there can be peace without justice, and it is not peace. That single definition changes every argument that follows.",
-  "Force is not absolutely forbidden. The tradition allows defence of the innocent, under strict conditions: a lasting and grave harm must be imminent, every other means must have failed, the response must be proportionate, and it must not produce evils worse than the evil it removes. Those conditions are severe, and in the modern world they are very hard to meet.",
-  "In practice, the Church has grown much more restrictive. John Paul II and Francis have both questioned whether a 'just war' is realistically possible now, and the Catechism speaks of the duty to protect the innocent while insisting that the use of arms must never become an end in itself.",
+  "Force is not absolutely forbidden. The tradition allows defence of the innocent, under strict conditions. A lasting and grave harm must be imminent. Every other means must have failed. The response must be proportionate, and it must not produce evils worse than the evil it removes. Those conditions are severe, and in the modern world they are very hard to meet.",
+  "In practice the Church has grown much more restrictive. John Paul II questioned whether modern war could ever meet the conditions, and in Fratelli Tutti Francis says it is now very difficult to invoke the traditional criteria at all. The Catechism still speaks of the duty to protect the innocent, while insisting that arms must never become an end in themselves.",
   "The non-violent strand belongs here too: the Church holds up those who renounce force and defend the weak by other means, and treats their witness as a real vocation, not a loophole."
  ],
  questions:[
